@@ -1,0 +1,22 @@
+PODS:
+  - calendar_plugin (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - calendar_plugin (from `Flutter/ephemeral/.symlinks/plugins/calendar_plugin/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  calendar_plugin:
+    :path: Flutter/ephemeral/.symlinks/plugins/calendar_plugin/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  calendar_plugin: 52600da2e1d2cd021c8d1b4f9797322c0da25285
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+
+PODFILE CHECKSUM: 137ddf7b4dbe5a83427ebf04ae8dea674cfd87fa
+
+COCOAPODS: 1.11.3
